@@ -27,7 +27,7 @@
 
 
   
-      // listElement.innerHTML = newToDo;
+      
 
       toDoItems.appendChild(inputElement);
       toDoItems.appendChild(newToDo);
@@ -35,7 +35,7 @@
     }
     else {
       alert("Please Add Something");
-      // if (removeNotice.className = ' hide__listItem' )
+
     };
   };
 
